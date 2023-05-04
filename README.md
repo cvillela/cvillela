@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @cvillela
-- 👀 I’m interested in Deep Learning, Audio Processing, Music and Electronics!
-- 🌱 I’m currently learning a lot about audio and music processing via Artificial Neural Networks
+- 👀 I’m interested in Deep Learning, Audio Processing, Data Science and Machine Learning Engineering!
+- 🌱 I’m currently learning a lot about MLOps, MLEngineering for Production-Ready Systems and Audio Processing via Artificial Neural Networks
 - 📫 How to reach me -> https://www.linkedin.com/in/caio-villela-197135149/
