@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @cvillela
-- 👀 I’m interested in Deep Learning, Audio Processing, Data Science and Machine Learning Engineering!
-- 🌱 I’m currently learning a lot about MLOps, MLEngineering for Production-Ready Systems and Audio Processing via Artificial Neural Networks
-- 📫 How to reach me -> https://www.linkedin.com/in/caio-villela-197135149/
+- Creating AI Audio pipelines and pushing the boundaries on art at [Refik Anadol Studios](https://refikanadol.com/)
+- 👀 My research focus lies on Audio Processing, Deep Learning, Natural Language Processing and Machine Learning Engineering!
+- 📫 [Feel free to message!](https://www.linkedin.com/in/caio-villela-197135149/)
+
+- Currently working on interactive Audio embedding extraction and manipulation for streaming reccomendation systems, Audio-to-Audio, Text-to-Audio and audio processing pipelines. 
