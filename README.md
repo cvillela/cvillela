@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cvillela
-- Creating AI Audio pipelines and pushing the boundaries on art at [Refik Anadol Studios](https://refikanadol.com/)
+- Making art at [Refik Anadol Studio](https://refikanadol.com/)
 - My research focus lies on Deep Learning, Audio Processing, Natural Language Processing and Machine Learning Engineering
 - 📫 [Feel free to message!](https://www.linkedin.com/in/caio-villela-197135149/)
 
