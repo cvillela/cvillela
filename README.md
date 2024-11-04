@@ -9,3 +9,6 @@
   - Scalable audio processing pipelines for noise reduction, silence removal and audio effects.
   - Generative Audio-to-Audio, Text-to-Audio and LLMs.
   - Graph Search, Knowledge Graphs and Path Planning algorithms for latent space navigation.
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cvillela)](https://github.com/anuraghazra/github-readme-stats)
